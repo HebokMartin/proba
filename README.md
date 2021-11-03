@@ -1,3 +1,3 @@
-#  elso proba
-# gépről írtam ezt a bejegyzést
-# saját gép bejegyzés23
+#  probam
+# gépről irtam 
+# saját gép bejegyzés234
