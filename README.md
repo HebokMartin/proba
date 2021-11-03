@@ -7,4 +7,5 @@
 # Legyen barack
 # Cseresznye
 # Süt a nap
-# Az alma piros
+# Nem az alma nem mindig piros
+# Falu
