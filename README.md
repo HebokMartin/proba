@@ -1,3 +1,3 @@
 # proba
 # gépről írtam
-# saját gép bejegyzés
+# saját gép bejegyzés2
