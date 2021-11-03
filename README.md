@@ -7,3 +7,4 @@
 # Legyen barack
 # Cseresznye
 # Süt a nap
+# Az alma piros
