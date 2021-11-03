@@ -4,4 +4,4 @@
 # Ide az volt írva, hogy bicikli.
 # Szia Martin! Mi újság?
 # Harmadik commit.
-# Legyen még konfliktus
+# Legyen még konfliktuss
