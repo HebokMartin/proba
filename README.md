@@ -1,2 +1,3 @@
 # proba
 # gépről írtam
+# konfliktus
