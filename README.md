@@ -1,5 +1,5 @@
 #  probam
 # gépről irtam 
 # saját gép bejegyzés234
-# bicikli
+# Ide az volt írva, hogy bicikli.
 # Szia Martin! Mi újság?
