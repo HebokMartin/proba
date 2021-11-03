@@ -6,3 +6,4 @@
 # Harmadik commit.
 # Legyen barack
 # Cseresznye
+# Kecske
