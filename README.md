@@ -9,3 +9,4 @@
 # Süt a nap
 # Nem az alma nem mindig piros
 # Falu
+# Kiderül mindjárt!
