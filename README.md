@@ -10,3 +10,4 @@
 # Nem az alma nem mindig piros
 # Falu
 # Nem derült ki
+# Gyakorlás
