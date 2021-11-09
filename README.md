@@ -11,3 +11,4 @@
 # Falu
 # Nem derült ki
 # Gyakorlásd
+Gyakorló pull
